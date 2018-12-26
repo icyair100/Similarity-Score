@@ -1,0 +1,9 @@
+My source bodies of texts where a compilation of tweets from Trump and Obama.
+The texts compared agaisnt these sources were: an excerpt from Cuckoo's Calling by
+Robrt Galbraith(J.K. Rowling), my WR100 paper, an excerpt from Becoming by Michelle Obama,
+a collection of articles from Fox News, and a different colection of trump tweets.
+
+I found out that none of the texts could've come from Trump except for his own
+tweets. I think the text classification program worked pretty well. It could be improved
+with features that better cleaned the texts. It could also be improved by adding
+more comparison classifications.
